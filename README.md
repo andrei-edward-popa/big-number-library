@@ -1,4 +1,3 @@
-# BigNumberLibrary
+# Big Number Library
 
-C++ Big Number Library
-
+Big Number Library written in C++
